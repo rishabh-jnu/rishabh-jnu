@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabh Yadav</h1>
 <h3 align="center">A passionate Developer with a Keen Eye for Innovation</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh-jnu&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh-jnu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh-jnu" alt="rishabh-jnu" /></a> </p>
-
 - 📫 How to reach me **rishabhyadav70070@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
