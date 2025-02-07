@@ -7,6 +7,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/rishabh-yadav-999112230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-yadav-999112230" height="30" width="40" /></a>
 <a href="https://instagram.com/rishabhyadav1951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabhyadav1951" height="30" width="40" /></a>
+<a href="https://twitter.com/rishabhyad19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishabhyad19" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
